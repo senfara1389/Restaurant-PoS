@@ -1,0 +1,28 @@
+belo meso | 4000 | 54 | 
+brokoli | 430 | 12 | 
+cokolada | 3000 | 90 | 
+cufte | 4320 | 22 | 
+grozdje | 600 | 60 | 
+hleb | 3300 | 41 | 
+jabuka | 3240 | 23 | 
+jaja | 282 | 11 | 
+koka kola | 3500 | 120 | 
+kornisoni | 5600 | 550 | 
+kupus | 2200 | 43 | 
+luk | 705 | 8 | 
+marmelada | 2030 | 54 | 
+mleko | 2800 | 30 | 
+musli | 4920 | 120 | 
+orasi | 3210 | 66 | 
+piletina | 1200 | 70 | 
+pomfrit | 1360 | 90 | 
+sampinjoni | 2010 | 33 | 
+sargarepa | 900 | 14 | 
+sir | 3000 | 77 | 
+sirce | 200 | 60 | 
+sljiva | 7700 | 43 | 
+spagete | 2300 | 44 | 
+sunka | 1020 | 50 | 
+svinjsko meso | 2000 | 56 | 
+vegeta | 500 | 40 | 
+vino | 500 | 150 | 

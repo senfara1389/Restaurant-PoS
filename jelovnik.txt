@@ -1,0 +1,14 @@
+vecera | pizza | testenina | 150 | sir | 100 | piletina | 60 | sampinjoni | 50 | 220
+dorucak | omlet | jaja | 3 | sunka | 30 | 120
+desert | bajadere | orasi | 100 | cokolada | 200 | jaja | 3 | 160
+salata | kupus | kupus | 150 | 45
+rucak | spagete | spagete | 200 | cufte | 150 | 250
+pice | rakija | sljiva | 10 | 90
+dorucak | musli | mleko | 100 | musli | 40 | 70
+pice | sok | jabuka | 33 | 130
+rucak | brokoli | brokoli | 120 | sargarepa | 40 | 80
+pice | koka kola | koka kola | 200 | 150
+rucak | rostilj | svinjsko meso | 300 | pomfrit | 90 | luk | 45 | 450
+salata | kornisoni | kornisoni | 20 | sirce | 30 | 45
+pice | vino | vino | 20 | 1200
+rucak | piletina | piletina | 120 | vegeta | 20 | 400
